@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Accessible Navigator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="re_type_password">Re-Type Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="confirm">Confirm</string>
+    <string name="accessibility_level">Enter your level of accessibility:</string>
+    <string name="_1_manual_with_poor_ability_very_wide_chair">1 - Manual wheel chair: poor ability</string>
+    <string name="_2_manual_with_good_ability">2 - Manual wheel chair: good ability</string>
+    <string name="_3_electric_wheel_chair">3 - Electric wheel chair</string>
+    <string name="_4_impaired_accessibility_e_g_crutches_prosthetic">4 - Impaired: e.g. crutches</string>
+    <string name="_5_able_bodied">5 - Able-bodied</string>
+    <string name="login_page">Login page</string>
+    <string name="home">Home</string>
+</resources>
